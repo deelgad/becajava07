@@ -12,6 +12,7 @@ public class GarageMain {
      *
      * @param args the input arguments
      */
+	// Estoy modificando la clase principal.
     public static void main(String... args) throws Exception {
         GarageMenu.getInstance().start();
     }
