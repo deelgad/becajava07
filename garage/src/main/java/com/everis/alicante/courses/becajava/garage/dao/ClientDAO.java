@@ -13,5 +13,5 @@ public interface ClientDAO {
 	public void update(Client client) throws IOException;;
 	public void delete(Client client) throws IOException;;
 	
-	public List<Client> readAll();
+	public List<Client> readoll();
 }
